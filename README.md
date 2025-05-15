@@ -53,7 +53,7 @@
 
 ### 📷 Preview
 
-![Image](https://github.com/user-attachments/assets/a6527b82-85a3-41cb-aa04-faf8e2fed037)
+![Image](https://github.com/user-attachments/assets/4293c95f-d1b2-49be-85ae-8c73f5a69876)
 
 ---
 
