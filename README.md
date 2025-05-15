@@ -50,7 +50,8 @@
 
 
 ### 📷 Preview
-![demo](./Assets/Screenshot.gif)
+
+![Image](https://github.com/user-attachments/assets/a6527b82-85a3-41cb-aa04-faf8e2fed037)
 
 ---
 
