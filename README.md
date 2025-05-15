@@ -1,11 +1,11 @@
 # :musical_note: Rhythm Game Mode Sample Code
 
-
-
+리듬게임 모드를 만들었을때의 구조와 소스 코드중 일부 입니다.<br/>
+실제 프로젝트에서는 이 구조를 기반으로 다양한 이펙트, 피버모드, 콤보 연출 등을 확장 구현했습니다.<br/><br/>
 ### :file_folder: Folder Structure
 
-- `/Controller/Game`: 게임플레이의 기본이 되는 노트와 라인, 터치이펙트를 제어하는 컨트롤러 스크립트들
-- `/Controller/Stage`: 게임 스테이지를 구성하고 게임을 굴러가게 처리하는 스크립트들 
+- `/Controller/Game`: 게임플레이의 기본이 되는 노트와 라인, 터치이펙트를 각각 제어하는 컨트롤러 스크립트들
+- `/Controller/Stage`: 게임 스테이지를 구성하고 게임이 플레이되게 처리하는 스크립트들 
 - `/Elements`: 게임 구성에 필요한 요소들을 정의한 스크립트들
 
 ```
